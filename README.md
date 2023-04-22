@@ -1,4 +1,4 @@
-### Hello and welcome to the place where I store all my . My name is Anthony 👋
+### Hello, my name is Anthony. Welcome to my Github profile 👋
 
 🕹️🖌️ I'm a full stack developer who is passionate about the front end and all things games related.  
 
@@ -12,10 +12,10 @@ However, a lot of my recent repostories are private for various reasons :( But w
 
 ### Links
 
-YouTube: https://www.youtube.com/channel/UC6uz-Me49qF6Wq3KYqaO80g
-Twitter: https://twitter.com/shezzor
+- YouTube: https://www.youtube.com/channel/UC6uz-Me49qF6Wq3KYqaO80g
+- Twitter: https://twitter.com/shezzor
 
-Art/Painting stuffs: https://www.instagram.com/anthonysherrattart/
+- Art/Painting stuffs: https://www.instagram.com/anthonysherrattart/
 
 <!--
 **shezzor/shezzor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
