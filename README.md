@@ -4,7 +4,7 @@
 
 👨🏻‍💻 For work I specialise in these buzzwords: React, TypeScript, JavaScript, CSS, HTML, Accessibility, UX with C# or Node on the backend.
 
-🎮 For personal projects I'm currently focusing on bringing retro games to the web using the Canvas element and browser technologies. Where I'm currently working on a Street Fighter 2 clone 🐲👊
+🎮 For personal projects I'm currently focusing on bringing retro games to the web using the Canvas element and browser technologies. Where I'm currently working on a Street Fighter 2 🐲👊 and a Bomberman 💣🔥 clone.
 
 🎨 I also from time to time like call myself an artist, on the side. Where I tend to paint portraits and landscapes in the traditional style. 
 
@@ -14,8 +14,8 @@ However, a lot of my recent repostories are private for various reasons :( But w
 
 - YouTube: https://www.youtube.com/channel/UC6uz-Me49qF6Wq3KYqaO80g
 - Twitter: https://twitter.com/shezzor
-
 - Art/Painting stuffs: https://www.instagram.com/anthonysherrattart/
+- Patreon: https://www.patreon.com/shezzor
 
 <!--
 **shezzor/shezzor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
