@@ -4,7 +4,7 @@
 
 👨🏻‍💻 For work I specialise in these buzzwords: React, TypeScript, JavaScript, CSS, HTML, Accessibility, UX with C# or Node on the backend.
 
-🎮 For personal projects I'm currently focusing on bringing retro games to the web using the Canvas element and browser technologies. Where I'm currently working on a Street Fighter 2 🐲👊 and a Bomberman 💣🔥 clone.
+🎮 For personal projects I'm currently focusing on bringing retro games to the web using the HTML canvas element and browser technologies. I'm currently working on bringing Street Fighter 2 🐲👊 and a Bomberman 💣🔥 clone to the web using no frameworks.
 
 🎨 I also from time to time like call myself an artist, on the side. Where I tend to paint portraits and landscapes in the traditional style. 
 
