@@ -1,8 +1,8 @@
 ### Hello, my name is Anthony. Welcome to my GitHub profile 👋
 
-🕹️🖌️ I'm a full-stack developer who is passionate about the front end and all things games related.  
+🕹️🖌️ I'm a full-stack developer who is passionate about the front end and all things games-related.  
 
-👨🏻‍💻 For work I specialise in these buzzwords: React, TypeScript, JavaScript, CSS, HTML, Accessibility, UX with C# or Node on the backend.
+👨🏻‍💻 For work I specialise in these buzzwords: React, TypeScript, JavaScript, CSS, HTML, Accessibility, and UX with C# or Node on the backend. I've also been known to dabble in C and assembler for various machines from time to time.
 
 🎮 For personal projects I'm currently focusing on bringing retro games to the web using the HTML canvas element and browser technologies. I'm currently working on bringing Street Fighter 2 🐲👊 and a Bomberman 💣🔥 clone to the web using no frameworks.
 
